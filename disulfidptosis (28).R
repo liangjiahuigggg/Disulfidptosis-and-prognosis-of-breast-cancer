@@ -36,10 +36,4 @@ oncoplot(maf=maf, clinicalFeatures="Risk", genes=gene, annotationColor=ann_color
 dev.off()
 
 
-######??????Ñ§??: https://www.biowolf.cn/
-######?Î³?Á´??1: https://shop119322454.taobao.com
-######?Î³?Á´??2: https://ke.biowolf.cn
-######?Î³?Á´??3: https://ke.biowolf.cn/mobile
-######?â¿¡??Ê¦????: seqbio@foxmail.com
-######?â¿¡??Ê¦Î¢??: eduBio
 
