@@ -61,10 +61,3 @@ dotplot(kk, showCategory=showNum, orderBy="GeneRatio", label_format=130, color=c
 dev.off()
 
 
-######??????Ñ§??: https://www.biowolf.cn/
-######?Î³?Á´??1: https://shop119322454.taobao.com
-######?Î³?Á´??2: https://ke.biowolf.cn
-######?Î³?Á´??3: https://ke.biowolf.cn/mobile
-######?â¿¡??Ê¦????: seqbio@foxmail.com
-######?â¿¡??Ê¦Î¢??: eduBio
-
