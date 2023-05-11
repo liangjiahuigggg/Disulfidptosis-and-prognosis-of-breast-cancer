@@ -122,10 +122,5 @@ legend('bottom',legend=c(0.0001,0.001,0.01,0.05,1),pch=16,pt.cex=c(1.6,1.4,1.2,1
 dev.off()
 
 
-######??????Ñ§??: https://www.biowolf.cn/
-######?Î³?Á´??1: https://shop119322454.taobao.com
-######?Î³?Á´??2: https://ke.biowolf.cn
-######?Î³?Á´??3: https://ke.biowolf.cn/mobile
-######?â¿¡??Ê¦????: seqbio@foxmail.com
-######?â¿¡??Ê¦Î¢??: eduBio
+
 
