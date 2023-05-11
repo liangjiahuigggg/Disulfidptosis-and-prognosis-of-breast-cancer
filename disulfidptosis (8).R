@@ -72,16 +72,10 @@ dev.off()
 interGenes=Reduce(intersect,geneList)
 write.table(file="interGene.txt",interGenes,sep="\t",quote=F,col.names=F,row.names=F)
 
-#???æ½»???????Ä±???Á¿
+#???æ½»???????Ä±???ï¿½ï¿½
 interGeneExp=data[interGenes,]
 interGeneExp=rbind(id=colnames(interGeneExp), interGeneExp)
 write.table(interGeneExp, file="interGeneExp.txt", sep="\t", quote=F, col.names=F)
 
 
-######??????Ñ§??: https://www.biowolf.cn/
-######?Î³?Á´??1: https://shop119322454.taobao.com
-######?Î³?Á´??2: https://ke.biowolf.cn
-######?Î³?Á´??3: https://ke.biowolf.cn/mobile
-######?â¿¡??Ê¦????: seqbio@foxmail.com
-######?â¿¡??Ê¦Î¢??: eduBio
 
