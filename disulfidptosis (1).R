@@ -25,10 +25,4 @@ text(bar, par('usr')[3]-0.2, rownames(data), adj=1, cex=1)
 dev.off()
 
 
-######??????Ñ§??: https://www.biowolf.cn/
-######?Î³?Á´??1: https://shop119322454.taobao.com
-######?Î³?Á´??2: https://ke.biowolf.cn
-######?Î³?Á´??3: https://ke.biowolf.cn/mobile
-######?â¿¡??Ê¦????: seqbio@foxmail.com
-######?â¿¡??Ê¦Î¢??: eduBio
 
